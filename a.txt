@@ -1,2 +1,3 @@
 "abcdef" 
 "This is another txt" 
+"adding another contect to the file"  
